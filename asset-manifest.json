@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-forms/static/css/main.1f4153b5.chunk.css",
+    "main.js": "/react-forms/static/js/main.41bdb6a3.chunk.js",
+    "main.js.map": "/react-forms/static/js/main.41bdb6a3.chunk.js.map",
+    "runtime~main.js": "/react-forms/static/js/runtime~main.82238d43.js",
+    "runtime~main.js.map": "/react-forms/static/js/runtime~main.82238d43.js.map",
+    "static/css/2.47443430.chunk.css": "/react-forms/static/css/2.47443430.chunk.css",
+    "static/js/2.6bfa430e.chunk.js": "/react-forms/static/js/2.6bfa430e.chunk.js",
+    "static/js/2.6bfa430e.chunk.js.map": "/react-forms/static/js/2.6bfa430e.chunk.js.map",
+    "index.html": "/react-forms/index.html",
+    "precache-manifest.0b964a6c814e0926e9848488c60ba5f7.js": "/react-forms/precache-manifest.0b964a6c814e0926e9848488c60ba5f7.js",
+    "service-worker.js": "/react-forms/service-worker.js",
+    "static/css/2.47443430.chunk.css.map": "/react-forms/static/css/2.47443430.chunk.css.map",
+    "static/css/main.1f4153b5.chunk.css.map": "/react-forms/static/css/main.1f4153b5.chunk.css.map"
+  }
+}
